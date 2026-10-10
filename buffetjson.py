@@ -1,10 +1,4 @@
-# Buffet de la Facultad - versión simple
-#
-# Datos:
-#   codigos, nombres, precios -> 3 arrays paralelos (el producto i está en la posición i)
-#   ventas[i][d]              -> matriz: unidades del producto i en el día d (0 = lunes)
-# Archivo:
-#   buffet.json -> lista de productos, cada uno con sus ventas por día
+# Buffet de la Facultad - version json
 
 import json
 
@@ -52,7 +46,7 @@ def cargar_producto(codigos, nombres, precios, cant, codigo, nombre, precio):
 
 
 def leer_archivo(codigos, nombres, precios, ventas):
-    # Lee los productos y sus ventas desde el archivo JSON.
+    # Lee los productos y sus ventas desde buffet.json.
     cant = 0
     try:
         with open("buffet.json", "r", encoding="utf-8") as archivo:
@@ -72,7 +66,7 @@ def leer_archivo(codigos, nombres, precios, ventas):
 
 
 def guardar_archivo(codigos, nombres, precios, ventas, cant):
-    # Guarda los datos actuales como una lista de productos en formato JSON.
+    # Guarda la lista de productos en formato JSON.
     productos = []
     for i in range(cant):
         productos.append({
