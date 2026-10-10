@@ -1,4 +1,4 @@
-# Buffet de la Facultad - versión simple
+# Buffet de la Facultad -
 #
 # Datos:
 #   codigos, nombres, precios -> 3 arrays paralelos (el producto i está en la posición i)
