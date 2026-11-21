@@ -4,8 +4,8 @@
 # Funcionalidades implementadas:
 #   RF-03: Analizar los modulos afectados al modificar un modulo.
 #   RF-04: Detectar dependencias circulares entre modulos.
-#   Matematica discreta: matriz de adyacencia y algoritmo de Warshall.
-
+#   Matematica discreta: matriz de adyacencia y algoritmo de Warshall..
+#---
 # DATOS DE LOGIX
 
 modulos = ["PED", "CLI", "INV", "ROB", "ASG", "RUT", "SEG", "ENT", "REP"]
