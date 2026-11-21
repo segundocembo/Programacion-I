@@ -1,18 +1,50 @@
 [
   {
-    "nombre": "yo",
+    "nombre": "Martin Gomez",
     "categoria": "5"
   },
   {
-    "nombre": "tu",
+    "nombre": "Lucas Peralta",
     "categoria": "5"
   },
   {
-    "nombre": "yi",
+    "nombre": "Sofia Ruiz",
+    "categoria": "4"
+  },
+  {
+    "nombre": "Diego Acosta",
     "categoria": "6"
   },
   {
-    "nombre": "po",
+    "nombre": "Valentina Sosa",
+    "categoria": "4"
+  },
+  {
+    "nombre": "Tomas Benitez",
+    "categoria": "5"
+  },
+  {
+    "nombre": "Camila Diaz",
+    "categoria": "6"
+  },
+  {
+    "nombre": "Facundo Romero",
+    "categoria": "4"
+  },
+  {
+    "nombre": "Julieta Molina",
+    "categoria": "6"
+  },
+  {
+    "nombre": "Nicolas Ortiz",
+    "categoria": "5"
+  },
+  {
+    "nombre": "Agustina Lopez4",
+    "categoria": "4"
+  },
+  {
+    "nombre": "Bruno Fernandez",
     "categoria": "6"
   }
 ]

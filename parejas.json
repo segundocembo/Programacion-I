@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "los tanos",
+    "jugador1": "Martin Gomez",
+    "jugador2": "Lucas Peralta",
+    "puntos": 6
+  },
+  {
+    "nombre": "las leonas",
+    "jugador1": "Sofia Ruiz",
+    "jugador2": "Valentina Sosa",
+    "puntos": 9
+  },
+  {
+    "nombre": "doble falta",
+    "jugador1": "Diego Acosta",
+    "jugador2": "Camila Diaz",
+    "puntos": 3
+  }
+]

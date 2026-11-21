@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": 103,
+        "nombre": "polaco",
+        "precio": 4000,
+        "ventas": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "codigo": 109,
+        "nombre": "leche",
+        "precio": 1700,
+        "ventas": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+]
